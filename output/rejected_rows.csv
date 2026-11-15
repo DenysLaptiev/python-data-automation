@@ -1,0 +1,4 @@
+source_row,order_id,reason
+7,O-1002,duplicate_order_id
+9,O-1007,unknown_customer
+10,O-1008,invalid_amount
