@@ -1,0 +1,10 @@
+order_id,date,customer_id,customer,country,email,status,amount
+O-1001,2026-10-01,C001,Acme Labs,USA,sales@acmelabs.com,paid,125.50
+O-1002,2026-10-01,C002,Nova Retail,UK,hello@novaretail.com,paid,88.00
+O-1003,2026-10-02,C003,Pine Studio,USA,contact@pinestudio.com,paid,42.00
+O-1004,2026-10-03,C001,Acme Labs,USA,sales@acmelabs.com,refunded,200.00
+O-1005,2026-10-04,C005,Orbital Tech,UK,info@orbitaltech.com,paid,75.25
+O-1006,2026-10-05,C004,Blue Systems,Germany,team@bluesystems.io,paid,110.00
+O-1009,2026-10-07,C001,Acme Labs,USA,sales@acmelabs.com,pending,60.00
+O-1010,2026-10-08,C002,Nova Retail,UK,hello@novaretail.com,paid,155.00
+O-1011,2026-10-09,C003,Pine Studio,USA,contact@pinestudio.com,paid,99.99
